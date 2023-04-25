@@ -1,0 +1,47 @@
+.pandu{
+    background-color: rgb(79, 6, 3);
+}
+
+.brand-img{
+    height: 50px;
+    width: 50px;
+    border-radius: 50%;
+}
+
+.adjust:hover{
+    font-size: 20px;
+}
+
+.react-tabs__tab {
+    font-family: Poppins;
+    font-size: 18px;
+    font-weight: 600;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 1.5;
+    letter-spacing: normal;
+    text-align: left;
+    color: white;
+    background-color: maroon;
+    border: none;
+    border-radius: 100px;
+   
+    
+}
+
+.react-tabs__tab:hover{
+    -ms-transform : scale(1.0);
+    -webkit-transform: scale(1.0);
+    transform: scale(1.1);
+    background-color: gray;
+   
+}
+
+.form-control{
+ width: 300px;
+}
+
+#exampleModalCenter{
+ background-image: url(https://1.bp.blogspot.com/-FU5f4MEHc7o/X5pXaFjspJI/AAAAAAAAZSU/8a_hUN2T3R4t83mtvme-N_j9IFWvAh4pgCLcBGAsYHQ/s2048/20201018_144013.jpg)
+    
+}
